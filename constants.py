@@ -1,6 +1,6 @@
 from nltk.corpus import stopwords
 
-# srn
+#SRN
 NAME_PATTERN      = [{'PES': 'PSEUG'}, {'PES': 'PSEUG'}]
 
 # Education (Upper Case Mandatory)
